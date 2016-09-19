@@ -1,0 +1,4 @@
+,lower_bound_impact_for_first_ten_reviews,mean_impact_for_first_ten_reviews,upper_bound_impact_for_first_ten_reviews,lower_bound_impact_for_higher_reviews,mean_impact_for_higher_reviews,upper_bound_impact_for_higher_reviews,market_saturation
+0,82.357716086,135.42663323,188.49555038,55.4970453349,84.137614817,97.7781842992,mid_market
+1,23.898631496,55.844838454,87.791045412,16.7051351793,22.0578099492,27.4104847191,new_market
+2,36.188677462,50.27156498,64.3544525,36.4180086367,44.2430095111,47.0680103857,saturated_market
